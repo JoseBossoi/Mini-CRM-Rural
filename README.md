@@ -105,9 +105,18 @@ Major architectural and strategic decisions may include:
 This ensures structured evolution without premature commitments.
 ________________________________________
 ## License
-All rights reserved.
-This repository is published for transparency, architectural discussion, and professional exchange.
-Commercial use, redistribution, or production deployment without explicit authorization is prohibited.
+This project is released under the **Business Source License (BSL) 1.1**.
+
+You are free to:
+
+- view and study the code
+- fork the repository
+- test and experiment with the software
+- submit improvements
+
+Commercial use of this software is restricted.
+
+For commercial licensing inquiries, please contact the author.
 ________________________________________
 © 2026 José Fernando Bossoi Moreira Costa.
 ***MercadoRaiz™*** is a trademark of **José Fernando Bossoi Moreira Costa**.
