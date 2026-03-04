@@ -3,8 +3,10 @@ Vertical SaaS for operational management in family farming and small rural produ
 ________________________________________
 ## Overview
 Mini-CRM Rural is a vertical SaaS initiative focused on supporting family farming operations and small rural producers with structured operational management tools.
+
 The project begins intentionally simple. Its purpose is to validate whether a focused, low-complexity CRM tailored to rural workflows can improve commercial organization without increasing operational burden.
-This repository represents the foundational phase of that journey.
+
+This repository also serves as part of a **public engineering journey**, where the system evolves incrementally from foundational implementation toward more mature production capabilities.
 ________________________________________
 ## Initial ICP (Ideal Customer Profile)
 The first validation focus targets:
