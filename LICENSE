@@ -1,46 +1,39 @@
-Mini-CRM Rural
+Business Source License 1.1
+
+Licensor: José Fernando Bossoi Moreira Costa
+
+Licensed Work: Mini-CRM Rural
+
 Copyright (c) 2026 José Fernando Bossoi Moreira Costa
-All rights reserved.
 
-1. Ownership
+Terms:
 
-All intellectual property rights in this repository, including but not limited to source code, documentation, architecture designs, diagrams, concepts, and related materials, are exclusively owned by the author.
+Use of the Licensed Work is permitted for:
 
-2. Permitted Use
+- viewing
+- studying
+- testing
+- modification
+- development
+- non-commercial use
 
-The contents of this repository are made publicly available for:
+You may fork the repository and contribute improvements.
 
-- Viewing
-- Educational reference
-- Technical review
-- Providing feedback
-- Non-commercial discussion
+You may NOT:
 
-No other rights are granted.
+- offer the software as a commercial service
+- use the software in commercial products
+- sell or sublicense the software
+- compete commercially using the Licensed Work
 
-3. Restrictions
+Change Date: 1 January 2030
 
-Without prior written permission from the author, you may NOT:
+On the Change Date, this software will be released under the MIT License.
 
-- Copy or redistribute substantial portions of the code
-- Modify and distribute derivative works
-- Use the code in commercial products or services
-- Deploy the code in production environments
-- Offer the software as a service
-- Incorporate the code into competing solutions
+Additional Use Grant:
 
-4. No License Grant
+Commercial licensing may be granted by the Licensor upon written agreement.
 
-No patent rights, trademark rights, or other intellectual property rights are granted by this license.
+Disclaimer:
 
-5. Commercial Licensing
-
-For commercial use, partnerships, integration discussions, or licensing inquiries, please contact the author directly.
-
-6. Disclaimer
-
-This software is provided “as is,” without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement.
-
-7. Future Licensing
-
-The author reserves the right to change the licensing terms for future versions of this repository.
+This software is provided “as is”, without warranty of any kind.
